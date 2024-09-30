@@ -3,7 +3,6 @@ import './Gameover.css';
 
 export default function Gameover({ fetchWords }: {fetchWords: any}){
     const handleClick = () => {
-        console.log('clicked');
         fetchWords();
     }
 

@@ -32,12 +32,9 @@ const App: React.FC = () => {
     }, []);
 
     useEffect(() => {
-        // loadNewPuzzle(words);
         const randomIdx = Math.floor(Math.random() * words.length);
-        console.log(`${randomIdx} of ${words.length}`);
         setRandomWordIdx(randomIdx);
         setGuess('');
-        console.log(words);
     }, [words]);
 
     useEffect(() => {
@@ -46,7 +43,6 @@ const App: React.FC = () => {
             if (key === 'Enter' && wordFinished){
                 const newWords = words.filter((_, idx) => idx !== randomWordIdx);
                 setWords(newWords);
-                // loadNewPuzzle();
                 setCounter(counter + 1);
             }
             if (key === ' ') return;
@@ -87,13 +83,6 @@ const App: React.FC = () => {
         }
     }, [guess]);
 
-    const loadNewPuzzle = (bank: WordArray) => {
-        const randomIdx = Math.floor(Math.random() * bank.length);
-        console.log(`${randomIdx} of ${bank.length}`);
-        setRandomWordIdx(randomIdx);
-        setGuess('');
-    }
-
     return (
         <div className="app">
             <Header />
@@ -107,7 +96,6 @@ const App: React.FC = () => {
                     </div>
                 }
                 {words.length === 0 && <Gameover fetchWords={fetchWords} />}
-                {/* <Gameover /> */}
             </div>
         </div>
 

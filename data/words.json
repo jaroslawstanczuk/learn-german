@@ -1,268 +1,36 @@
 {
     "dict": [
         {
-            "word": "das Koffein",
-            "translation": "caffeine"
+            "word": "der Lauch",
+            "translation": "por"
         },
         {
-            "word": "die Türglocke",
-            "translation": "doorbell"
+            "word": "die Gabel",
+            "translation": "widelec"
         },
         {
-            "word": "der Charme",
-            "translation": "charm"
+            "word": "untermauern",
+            "translation": "poprzeć"
         },
         {
-            "word": "bellen",
-            "translation": "to bark"
+            "word": "die Prozedur",
+            "translation": "procedura"
         },
         {
-            "word": "sanft",
-            "translation": "gentle"
+            "word": "der Coupon",
+            "translation": "kupon"
         },
         {
-            "word": "ein Ritter in schimmernder Rüstung",
-            "translation": "a knight in shining armor"
+            "word": "das Segment",
+            "translation": "segment"
         },
         {
-            "word": "allmählich",
-            "translation": "gradually"
+            "word": "mit sofortiger Wirkung",
+            "translation": "ze skutkiem natychmiastowym"
         },
         {
-            "word": "die Tür aufhalten",
-            "translation": "to hold the door"
-        },
-        {
-            "word": "die Schürze",
-            "translation": "apron"
-        },
-        {
-            "word": "wie stehen die Chancen",
-            "translation": "what are the odds"
-        },
-        {
-            "word": "einen Herzstillstand erleiden",
-            "translation": "go into cardiac arrest"
-        },
-        {
-            "word": "die Wiederbelebung",
-            "translation": "CPR"
-        },
-        {
-            "word": "lauschen",
-            "translation": "eavesdrop"
-        },
-        {
-            "word": "auf einem Silbertablett",
-            "translation": "on a silver platter"
-        },
-        {
-            "word": "der Bräutigam",
-            "translation": "the groom"
-        },
-        {
-            "word": "die Schwingungen auffangen",
-            "translation": "get the vibes"
-        },
-        {
-            "word": "einen Hund ausführen",
-            "translation": "to walk a dog"
-        },
-        {
-            "word": "jemandem widersprechen",
-            "translation": "to disagree with someone"
-        },
-        {
-            "word": "plündern",
-            "translation": "to loot"
-        },
-        {
-            "word": "Bernstein",
-            "translation": "amber"
-        },
-        {
-            "word": "Aushilfe",
-            "translation": "a temp"
-        },
-        {
-            "word": "der Skizzenblock",
-            "translation": "sketchbook"
-        },
-        {
-            "word": "die Vielseitigkeit",
-            "translation": "versatility"
-        },
-        {
-            "word": "sich warmlaufen",
-            "translation": "just getting started"
-        },
-        {
-            "word": "jemanden ablösen",
-            "translation": "to replace someone"
-        },
-        {
-            "word": "das Schminktäschchen",
-            "translation": "makeup bag"
-        },
-        {
-            "word": "amtierende Präsidenten",
-            "translation": "sitting presidents"
-        },
-        {
-            "word": "jemanden anbaggern",
-            "translation": "to hit on someone"
-        },
-        {
-            "word": "verehren",
-            "translation": "to worship"
-        },
-        {
-            "word": "erhobenen Hauptes",
-            "translation": "with one's head up high"
-        },
-        {
-            "word": "der Chor",
-            "translation": "choir"
-        },
-        {
-            "word": "die Schulaufführung",
-            "translation": "school play"
-        },
-        {
-            "word": "geistlos",
-            "translation": "insipid"
-        },
-        {
-            "word": "lass es ruhig angehen",
-            "translation": "take it nice and slow"
-        },
-        {
-            "word": "untervermieten",
-            "translation": "sublet"
-        },
-        {
-            "word": "die Mappe",
-            "translation": "folder"
-        },
-        {
-            "word": "freischaffend",
-            "translation": "freelance"
-        },
-        {
-            "word": "sich aufdonnern",
-            "translation": "playing dress-up"
-        },
-        {
-            "word": "die Klapsmühle",
-            "translation": "funny farm"
-        },
-        {
-            "word": "das Frühjahr",
-            "translation": "spring"
-        },
-        {
-            "word": "die Besetzung",
-            "translation": "movie cast"
-        },
-        {
-            "word": "der Tennisplatz",
-            "translation": "tennis court"
-        },
-        {
-            "word": "beizeiten",
-            "translation": "in good time"
-        },
-        {
-            "word": "feinfühlig",
-            "translation": "delicate"
-        },
-        {
-            "word": "beängstigend",
-            "translation": "scary"
-        },
-        {
-            "word": "verklingen",
-            "translation": "to fade away"
-        },
-        {
-            "word": "unter Schock stehen",
-            "translation": "to be in shock"
-        },
-        {
-            "word": "überglücklich",
-            "translation": "delighted"
-        },
-        {
-            "word": "etwas anprobieren",
-            "translation": "to try something on"
-        },
-        {
-            "word": "nach jemandem sehen",
-            "translation": "to check on someone"
-        },
-        {
-            "word": "die Verderbtheit",
-            "translation": "wickedness"
-        },
-        {
-            "word": "zwingender Grund",
-            "translation": "a pressing reason"
-        },
-        {
-            "word": "etwas draußen austragen",
-            "translation": "to take something outside"
-        },
-        {
-            "word": "sonnenklar",
-            "translation": "so clear"
-        },
-        {
-            "word": "arglos",
-            "translation": "innocent"
-        },
-        {
-            "word": "jemanden erretten",
-            "translation": "to save someone"
-        },
-        {
-            "word": "jemanden im Keller einsperren",
-            "translation": "to lock someone in the basement"
-        },
-        {
-            "word": "deplatziert",
-            "translation": "out of place"
-        },
-        {
-            "word": "vorig",
-            "translation": "previous"
-        },
-        {
-            "word": "herzig",
-            "translation": "cute"
-        },
-        {
-            "word": "die Teilzeitkraft",
-            "translation": "part-time worker"
-        },
-        {
-            "word": "der Preisträger",
-            "translation": "laureate"
-        },
-        {
-            "word": "hinreißend",
-            "translation": "stunning"
-        },
-        {
-            "word": "sündhaft teuer",
-            "translation": "wickedly expensive"
-        },
-        {
-            "word": "adlige",
-            "translation": "noble"
-        },
-        {
-            "word": "nichts wie raus hier",
-            "translation": "let's get the hell out of here"
+            "word": "das Eigengewächs",
+            "translation": "wychowanek"
         }
     ]
 }

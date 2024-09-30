@@ -21,8 +21,6 @@ export default function Buttons({ guess, setGuess }: { guess: string, setGuess: 
 function Key({ letter, guess, setGuess }: { letter: string, guess: string, setGuess: any }) {
     
     const handleClick = () => {
-        // alert(`clicked ${letter}`);
-        // console.log(guess);
         setGuess(guess + letter);
     }
 
