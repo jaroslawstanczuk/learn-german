@@ -1,0 +1,16 @@
+.buttons {
+    display: flex;
+}
+
+.key {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 36px;
+    height: 36px;
+    font-size: 20px;
+    background-color: #bbb;
+    color: #333;
+    border: 1px solid #333;
+    cursor: pointer;
+}

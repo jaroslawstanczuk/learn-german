@@ -1,0 +1,10 @@
+.title {
+    border-bottom: 1px solid #DDD;
+    display: flex;
+    justify-content: center;
+}
+
+.title h1 {
+    color: #FF6464;
+    padding: 20px;
+}

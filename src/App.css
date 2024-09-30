@@ -1,12 +1,28 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 
-.content {
+body {
     font-family: 'Roboto';
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    align-items: center;
+    width: 50%;
+    padding-top: 50px;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
 }
 
 .solve {
     display: flex;
     gap: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 .word {
@@ -17,9 +33,9 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    font: 24px;
-    width: 30px;
-    height: 30px;
+    font-size: 28px;
+    width: 45px;
+    height: 45px;
     border: 1px solid gray;
     text-transform: uppercase;
 }
